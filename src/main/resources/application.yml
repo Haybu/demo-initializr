@@ -45,6 +45,7 @@ initializr:
           id: discounter
           description: A department store discount ticket offering
           groupId: io.agilehandy
-          artifactId: daily-discount-spring-boot-starter
+          artifactId: deals-spring-boot-starter
           version: 0.0.1-SNAPSHOT
           versionRange: 2.0.1.RELEASE
+          starter: false
